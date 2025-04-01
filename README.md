@@ -64,7 +64,7 @@ silex-Bot 1.0🤖</h1>
 2. **Clona il repository**:
    ```bash
    git clone https://github.com/chatunitycenter/chatunity-bot.git
-   cd chatunity-bot
+   cd silex-bot
    ```
 
 3. **Installa le dipendenze**:
@@ -89,7 +89,7 @@ silex-Bot 1.0🤖</h1>
 
 1. **Fai nuova sessione e scrivi**:
  ```bash
-  cd chatunity-bot
+  cd silex-bot
   ```
 
  2. **Elimina le Sessioni**:
@@ -120,7 +120,7 @@ silex-Bot 1.0🤖</h1>
 2. **Clona il repository**:
    ```bash
    git clone https://github.com/chatunitycenter/chatunity-bot
-   cd chatunity-bot
+   cd silex-bot
    ```
 
 3. **Installa le dipendenze**:
